@@ -1,0 +1,11 @@
+{
+
+  "prompt": "A hyper-realistic, award-winning National Geographic style photograph. In the foreground, a weary 19th-century gold prospector is kneeling in a shallow, muddy puddle off the side of a river, intensely and stubbornly focused on panning the exact same patch of dirt. His pan contains only three tiny, dull flakes of gold. He is completely ignoring what is right behind him. In the immediate background behind his back, the river opens up into a massive, breathtaking, untouched natural vein of exposed raw gold in a rock formation. Cinematic lighting, deep depth of field, natural environment. Absolutely no text, no labels, no numbers, no futuristic elements, no diagrams, no floating icons. Strictly a physically plausible historical scene.",
+
+  "model": "Gemini 3 Flash Image",
+
+  "concept": "Exploration vs. Exploitation Trade-off from RL",
+
+  "metaphor": "A prospector stubbornly panning three tiny gold flakes in muddy water, completely oblivious to a massive, untouched natural vein of exposed gold ore just behind him."
+
+}
